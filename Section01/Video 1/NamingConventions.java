@@ -1,3 +1,4 @@
+
 package whatisanobject;
 /**
  *   Upper camel case for Classes & Interfaces
